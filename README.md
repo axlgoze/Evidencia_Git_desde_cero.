@@ -1,1 +1,2 @@
-# Git desde cero para Evidencias de aprendizaje para aprobar POO.
+#Retomamos el tutorial.
+#¿Sabes usar LaTeX?
